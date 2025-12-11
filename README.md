@@ -82,10 +82,3 @@ Olá! Sou João Victor Pereira, tenho 16 anos e sou natural de **Cupira — PE**
     style="padding-right: 10px;" 
     src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
