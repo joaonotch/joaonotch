@@ -4,7 +4,10 @@
 
 Olá! Sou João Victor Pereira, tenho 16 anos e sou natural de **Cupira — PE**. Estudante do Ensino Médio (2° ano), Atualmente estou cursando *Desenvolvimento De Sistemas Web* da **[Florescendo Talentos (CESAR School)](https://sites.google.com/cesar.org.br/florescendo-talentos/home)**. Sou apaixonado por tecnologia e implantado nesse mundo há 5 anos! Aqui compartilho meu conhecimento através dos respositórios publicados.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=18&duration=7000&pause=1000&color=007AFF&background=007AFF00&width=435&lines=Grab+a+%E2%98%95+and+develop+it.)](https://git.io/typing-svg)
+
 ---
+
 
 ### 💻 Linguagens e Tecnologias
 
