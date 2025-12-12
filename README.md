@@ -1,4 +1,4 @@
-# João V. Pereira👩🏻‍💻
+# João V. Pereira 👨🏻‍💻
 
 **`Desenvolvedor Back-end`**
 
