@@ -1,15 +1,12 @@
-# João V. Pereira 👨🏻‍💻
+# `João V. Pereira | Back-end Developer` 👨🏻‍💻
 
-**`Desenvolvedor Back-end`**
-
-Olá! Sou João Victor Pereira, tenho 16 anos e sou natural de **Cupira — PE**. Estudante do Ensino Médio (2° ano), Atualmente estou cursando *Desenvolvimento De Sistemas Web* da **[Florescendo Talentos (CESAR School)](https://sites.google.com/cesar.org.br/florescendo-talentos/home)**. Sou apaixonado por tecnologia e implantado nesse mundo há 5 anos! Aqui compartilho meu conhecimento através dos respositórios publicados.
+Hello! I'm João Victor Pereira, I'm 16 years old and I'm from **Cupira — PE**. I'm a high school student (2nd year), currently studying *Desenvolvimento De Sistemas Web* at **[Florescendo Talentos (CESAR School)](https://sites.google.com/cesar.org.br/florescendo-talentos/home)**. I'm passionate about technology and have been immersed in this world for 5 years! Here I share my knowledge through the repositories I publish.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=18&duration=7000&pause=1000&color=007AFF&background=007AFF00&width=435&lines=Grab+a+%E2%98%95+and+develop+it.)](https://git.io/typing-svg)
 
 ---
 
-
-### 💻 Linguagens e Tecnologias
+### 💻 Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -63,7 +60,7 @@ Olá! Sou João Victor Pereira, tenho 16 anos e sou natural de **Cupira — PE**
 <br/>
 <br/>
 
-### 💻 Sistemas Operacionais
+### 💻 Operating Systems
 
 <img 
     align="left" 
@@ -82,3 +79,12 @@ Olá! Sou João Victor Pereira, tenho 16 anos e sou natural de **Cupira — PE**
     style="padding-right: 10px;" 
     src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" 
 />
+
+<br />
+
+---
+
+### 📊 Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaonotch&show_icons=true&locale=en&theme=dracula" alt="joaonotch" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaonotch&show_icons=true&locale=en&layout=compact&theme=dracula" alt="joaonotch" /></p>
