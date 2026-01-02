@@ -82,9 +82,4 @@ Hello! I'm João Victor Pereira, I'm 16 years old and I'm from **Cupira — PE**
 
 <br />
 
----
-
-### 📊 Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaonotch&show_icons=true&locale=en&theme=dracula" alt="joaonotch" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaonotch&show_icons=true&locale=en&layout=compact&theme=dracula" alt="joaonotch" /></p>
+### "TI é que nem droga, é ruim, mas viciante. Dá um star ai maluco"
