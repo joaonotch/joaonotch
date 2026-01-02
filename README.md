@@ -82,4 +82,6 @@ Hello! I'm João Victor Pereira, I'm 16 years old and I'm from **Cupira — PE**
 
 <br />
 
-### "TI é que nem droga, é ruim, mas viciante. Dá um star ai maluco"
+---
+
+### "TI é que nem droga, é ruim, mas viciante. Dá um follow ai maluco"
