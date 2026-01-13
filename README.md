@@ -1,6 +1,6 @@
 # `João V. Pereira | Back-end Developer` 👨🏻‍💻
 
-Hello! I'm João Victor Pereira, I'm 16 years old and I'm from **Cupira — PE**. I'm a high school student (2nd year), currently studying *Desenvolvimento De Sistemas Web* at **[Florescendo Talentos (CESAR School)](https://sites.google.com/cesar.org.br/florescendo-talentos/home)**. I'm passionate about technology and have been immersed in this world for 5 years! Here I share my knowledge through the repositories I publish.
+Hello! I'm João Victor Pereira, I'm 16 years old and I'm from **Pernambuco**. I'm a high school student (2nd year), currently studying *Desenvolvimento De Sistemas Web* at **[Florescendo Talentos (CESAR School)](https://sites.google.com/cesar.org.br/florescendo-talentos/home)**. I'm passionate about technology and have been immersed in this world for 5 years! Here I share my knowledge through the repositories I publish.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=18&duration=7000&pause=1000&color=007AFF&background=007AFF00&width=435&lines=Grab+a+%E2%98%95+and+develop+it.)](https://git.io/typing-svg)
 
