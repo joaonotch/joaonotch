@@ -9,7 +9,7 @@
 - Discord bot developer for **5 years**.
 - Experience with Javascript and Node.js.
 - State student in Pernambuco (2nd year)
-
+  
 ## Technologies, Tools and OS ✨
 - Javascript  |  Typescript  |  Node.js  |  Python  |  SQLite  |  React Native 
 - Windows  |  Linux
