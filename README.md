@@ -1,87 +1,22 @@
-# `João V. Pereira | Back-end Developer` 👨🏻‍💻
+<p align="left">
+  <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="700"/>
+</p>
 
-Hello! I'm João Victor Pereira, I'm 16 years old and I'm from **Pernambuco**. I'm a high school student (2nd year), currently studying *Desenvolvimento De Sistemas Web* at **[Florescendo Talentos (CESAR School)](https://sites.google.com/cesar.org.br/florescendo-talentos/home)**. I'm passionate about technology and have been immersed in this world for 5 years! Here I share my knowledge through the repositories I publish.
+# [`Hi, i'm Pereira!`](https://github.com/joaonotch) 🏹
+I am a back-end developer with experience in **Javascript**, **Typescript**, and **Node.js**. I am constantly improving my skills and learning more while helping others and supporting public projects.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=18&duration=7000&pause=1000&color=007AFF&background=007AFF00&width=435&lines=Grab+a+%E2%98%95+and+develop+it.)](https://git.io/typing-svg)
+## About Me 🧠
+- Discord bot developer for 5 years.
+- Experience with Javascript.
+- State student in Pernambuco (2nd year)
 
----
+## Technologies, Tools and OS ✨
+- Javascript | Typescript | Node.js | Python | SQLite | React Native
+- Windows | Linux
 
-### 💻 Languages ​​and Technologies
+## Contact Me 📩
+- E-mail: joaonotch@proton.me
+- Discord: `n0rdeste` (Juau Vitu)
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="NODEJS" 
-    title="NodeJS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 💻 Operating Systems
-
-<img 
-    align="left" 
-    alt="Windows" 
-    title="Windows"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" 
-/>
-
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" 
-/>
-
-<br />
-
----
-
-### "TI é que nem droga, é ruim, mas viciante. Dá um follow ai maluco"
+## Reflection 💡
+- TI é que nem droga, é ruim, mas viciante. Dá um follow ai maluco!
