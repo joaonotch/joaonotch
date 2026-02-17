@@ -3,16 +3,16 @@
 </p>
 
 # [`Hi, i'm Pereira!`](https://github.com/joaonotch) 🏹
-I am a back-end developer with experience in **Javascript**, **Typescript**, and **Node.js**. I am constantly improving my skills and learning more while helping others and supporting public projects.
+<h3> I am a back-end developer with experience in Javascript, Typescript, and Node.js. I am constantly improving my skills and learning more while helping others and supporting public projects. </h3>
 
 ## About Me 🧠
-- Discord bot developer for 5 years.
-- Experience with Javascript.
+- Discord bot developer for **5 years**.
+- Experience with Javascript and Node.js.
 - State student in Pernambuco (2nd year)
 
 ## Technologies, Tools and OS ✨
-- Javascript | Typescript | Node.js | Python | SQLite | React Native
-- Windows | Linux
+- Javascript  |  Typescript  |  Node.js  |  Python  |  SQLite  |  React Native 
+- Windows  |  Linux
 
 ## Contact Me 📩
 - E-mail: joaonotch@proton.me
