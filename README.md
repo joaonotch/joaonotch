@@ -11,7 +11,7 @@
 - State student in Pernambuco (2nd year)
   
 ## Technologies, Tools and OS ✨
-- Javascript  |  Typescript  |  Node.js  |  Python  |  SQLite  |  React Native 
+- Javascript  |  Typescript  |  Node.js |  SQLite  |  React Native 
 - Windows  |  Linux
 
 ## Contact Me 📩
