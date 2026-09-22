@@ -39,7 +39,7 @@ I am a back-end developer with experience in Javascript, Typescript, and Node.js
   <img src="https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zedindustries&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <br/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows-000000?logo=windows11&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-000000?style=for-the-badge&logo=windows11&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
