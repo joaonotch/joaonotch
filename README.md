@@ -3,7 +3,9 @@
 <p align="center">
   <i>Backend developer, passionate about coding, technology, and open-source projects.</i><br/>
   <br/>
-  <code>Mobile (Android/iOS)</code> ⭑ <code>Software Engineer</code> ⭑ <code>Bots</code>
+   ⭑  <code>Software Engineer</code> ⭑ <br/>
+   ⭑  <code>Mobile (Android/iOS)</code> ⭑ <br/>
+   ⭑  <code>Bots Developer</code> ⭑ 
 </p>
 
 <p align="center">
