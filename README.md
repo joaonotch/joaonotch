@@ -27,9 +27,9 @@
 I am a back-end developer with experience in JavaScript, TypeScript, and Node.js. I am constantly honing my skills and learning new things, while also helping others and contributing to public projects. Beyond programming, I am an avid reader—reading many books each year—and I really enjoy listening to music!
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaonotch/joaonotch/output/[game-name]-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaonotch/joaonotch/output/[game-name]-contribution-graph.svg">
-    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/joaonotch/joaonotch/output/[game-name]-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaonotch/joaonotch/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaonotch/joaonotch/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joaonotch/joaonotch/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
