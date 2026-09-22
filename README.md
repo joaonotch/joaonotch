@@ -24,7 +24,7 @@
 
 ### ˙✦ About Me
 
-I am a back-end developer with experience in Javascript, Typescript, and Node.js. I am constantly improving my skills and learning more while helping others and supporting public projects.
+I am a back-end developer with experience in JavaScript, TypeScript, and Node.js. I am constantly honing my skills and learning new things, while also helping others and contributing to public projects. Beyond programming, I am an avid reader—reading many books each year—and I really enjoy listening to music!
 
 ---
 
