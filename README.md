@@ -1,4 +1,4 @@
-<h1 align="center">಄ ╭────╯ João V. Pereira ╰────╮ ಄</h1>
+<h1 align="center">˖⸙̭❛ㅤJoão V. Pereiraㅤ˖⸙̭❛</h1>
 
 <p align="center">
   <i>Backend developer, passionate about coding, technology, and open-source projects.</i><br/>
